@@ -7,8 +7,6 @@ logs/
 *.log.*
 
 # Environment files
-.env
-.env.*
 
 # Build output
 dist/
@@ -18,7 +16,6 @@ build/
 .vercel/
 
 # IDE/editor specific files
-.vscode/
 
 # OS-specific files
 .DS_Store
@@ -42,3 +39,7 @@ uploads/
 
 # Test coverage reports
 coverage/
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+branch_structure.json
